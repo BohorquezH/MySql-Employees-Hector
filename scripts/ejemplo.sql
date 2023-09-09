@@ -6,4 +6,6 @@
 use employees;
 
 # lista los primeros 10 empleados
-select * from employees limit 10;
+select * from employees limit 2;
+
+select "Hola mundo";
